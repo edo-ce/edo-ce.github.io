@@ -8,10 +8,7 @@ nav_order: 2
 ---
 
 <!-- _pages/publications.md -->
-
-<!-- Bibsearch Feature -->
-
-{% include bib_search.liquid %}
+See [Google Scholar](https://scholar.google.com/citations?user=yDQ_ht8AAAAJ&hl=en) for more up to date list of publications.
 
 <div class="publications">
 
