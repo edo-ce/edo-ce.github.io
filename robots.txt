@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://edoardocecchinato.github.io/sitemap.xml
+Sitemap: https://edo-ce.github.io/sitemap.xml
