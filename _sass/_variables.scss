@@ -19,31 +19,28 @@ $green-color-dark: #009f06 !default;
 $green-color-light: #ddffdd !default;
 $green-color-bright: #11d68b !default;
 $purple-color: #b509ac !default;
-$moon-color-dark:   #b18930 !default;
-$forest-color-dark:   #0A5A2A !default;
+$moon-color-dark: #b18930 !default;
+$forest-color-dark: #0a5a2a !default;
 $light-purple-color: color.adjust($purple-color, $lightness: 25%);
 $pink-color: #f92080 !default;
 $pink-color-light: #ffdddd !default;
 $yellow-color: #efcc00 !default;
-
 $grey-color: #828282 !default;
 $grey-color-light: color.adjust($grey-color, $lightness: 40%);
 $grey-color-dark: #1c1c1d;
 $grey-900: #212529;
-
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
 
 // Theme colors
-
 $code-bg-color-light: rgba($purple-color, 0.05);
 $code-bg-color-dark: #2c3237 !default;
 
 // Font awesome location
-$fa-font-path: "../webfonts";
+$fa-font-path: '../webfonts';
 
 // Tabler icons location
-$ti-font-path: "../fonts";
+$ti-font-path: '../fonts';
 
 // Back To Top button config
 $back-to-top-z-index: 10;

@@ -11,7 +11,5 @@ nav_order: 2
 See [Google Scholar](https://scholar.google.com/citations?user=yDQ_ht8AAAAJ&hl=en) for more up to date list of publications.
 
 <div class="publications">
-
-{% bibliography %}
-
+  {% bibliography %}
 </div>
