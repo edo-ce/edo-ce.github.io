@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'll start to work as a research assistant at [Riken](https://grp.riken.jp/en/) :robot: in Kyoto, under the supervision of Professor [Koichiro Yoshino](https://www.pomdp.net/)!
+I'll start to work as a research assistant at [RIKEN](https://grp.riken.jp/en/) :robot: in Kyoto, under the supervision of Professor [Koichiro Yoshino](https://www.pomdp.net/)!
