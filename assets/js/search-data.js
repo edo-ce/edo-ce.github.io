@@ -47,7 +47,7 @@ ninja.data = [{
           title: 'I’ll be joining the Mediterranean Machine Learning Summer School in Split, Croatia :palm_tree:!...',
           description: "",
           section: "News",},{id: "news-i-ll-start-to-work-as-a-research-assistant-at-riken-robot-in-kyoto-under-the-supervision-of-professor-koichiro-yoshino",
-          title: 'I’ll start to work as a research assistant at Riken :robot: in Kyoto,...',
+          title: 'I’ll start to work as a research assistant at RIKEN :robot: in Kyoto,...',
           description: "",
           section: "News",},{
         id: 'social-email',
