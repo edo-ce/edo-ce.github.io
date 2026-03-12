@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-10-1 15:59:00-0400
+date: 2026-02-26 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I'll start to work as a research assistant at [RIKEN](https://grp.riken.jp/en/) :robot: in Kyoto, under the supervision of Professor [Koichiro Yoshino](https://www.pomdp.net/)!
+I'll be part of the local organizing team for the [IWSDS 2026](https://sites.google.com/unitn.it/iwsds26/home) workshop in Trento :mountain_snow:!
