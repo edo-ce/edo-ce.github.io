@@ -49,6 +49,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-ll-start-to-work-as-a-research-assistant-at-riken-robot-in-kyoto-under-the-supervision-of-professor-koichiro-yoshino",
           title: 'I’ll start to work as a research assistant at RIKEN :robot: in Kyoto,...',
           description: "",
+          section: "News",},{id: "news-i-ll-be-part-of-the-local-organizing-team-for-the-iwsds-2026-workshop-in-trento-mountain-snow",
+          title: 'I’ll be part of the local organizing team for the IWSDS 2026 workshop...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
