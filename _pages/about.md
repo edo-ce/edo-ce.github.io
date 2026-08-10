@@ -24,6 +24,6 @@ announcements:
 
 Hi!
 
-My name is Edoardo, and I'm a Master's student in Artificial Intelligence at the University of Trento, where I'm doing research under the supervision of [Prof. Giuseppe Riccardi](https://disi.unitn.it/~riccardi/). My research interests are in LLMs, Vision-Language models, and dialogue systems.
+I'm Edoardo, a Research Assistant in the [SISLab](https://sisl.disi.unitn.it/) at the University of Trento, where I work with [Prof. Giuseppe Riccardi](https://disi.unitn.it/~riccardi/). My research focuses on LLM post-training, conversational agents, and reinforcement learning.
 
-I obtained my Bachelor's degree from Ca' Foscari University of Venice, where I wrote my thesis under the supervision of [Prof. Agostino Cortesi](https://www.unive.it/data/people/5591776).
+I previously earned a Master’s degree in Artificial Intelligence from the University of Trento, where I conducted my thesis research under the supervision of [Prof. Giuseppe Riccardi](https://disi.unitn.it/~riccardi/) and [Prof. Koichiro Yoshino](https://www.pomdp.net/). During my Master’s, I worked on dialogue systems, LLM reasoning, and vision-language models (VLMs).
